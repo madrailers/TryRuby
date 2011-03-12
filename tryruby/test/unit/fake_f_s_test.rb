@@ -1,4 +1,4 @@
-require 'test/test_helper'
+require 'test_helper'
 
 class FakeFSTest < Test::Unit::TestCase
   def setup
